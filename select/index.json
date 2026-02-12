@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "K-POP",
+  "base_artist": "Travis Scott",
+  "createdAt": "2026-02-12T05:57:03.600120Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let Me Know (K-Pop Version)",
+      "artist": "Jimmy Brown",
+      "has_synced": true,
+      "path": "select/01_Let_Me_Know_(K-Pop_Version)_Jimmy_Brown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let Me Know - K-Pop Version",
+      "artist": "Jimmy Brown",
+      "has_synced": true,
+      "path": "select/02_Let_Me_Know_-_K-Pop_Version_Jimmy_Brown.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "K-POP",
+      "artist": "Travis Scott feat. Bad Bunny & The Weeknd",
+      "has_synced": true,
+      "path": "select/03_K-POP_Travis_Scott_feat._Bad_Bunny_&_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "K-POP",
+      "artist": "Travis Scott, Bad Bunny & The Weeknd",
+      "has_synced": true,
+      "path": "select/04_K-POP_Travis_Scott,_Bad_Bunny_&_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "K-POP",
+      "artist": "BLITZERS",
+      "has_synced": true,
+      "path": "select/05_K-POP_BLITZERS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "K-POP",
+      "artist": "Blitzers",
+      "has_synced": false,
+      "path": "select/06_K-POP_Blitzers.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "K-POP",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/07_K-POP_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "K-POP",
+      "artist": "Travis Scott feat. Bad Bunny & The Weeknd",
+      "has_synced": true,
+      "path": "select/08_K-POP_Travis_Scott_feat._Bad_Bunny_&_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "K‐POP",
+      "artist": "Travis Scott feat. Bad Bunny & The Weeknd",
+      "has_synced": true,
+      "path": "select/09_K‐POP_Travis_Scott_feat._Bad_Bunny_&_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "K-POP",
+      "artist": "Travis Scott ft Bad Bunny & The Weeknd",
+      "has_synced": true,
+      "path": "select/10_K-POP_Travis_Scott_ft_Bad_Bunny_&_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "K-POP (feat. Bad Bunny & The Weeknd)",
+      "artist": "Travis Scott/Bad Bunny/The Weeknd",
+      "has_synced": true,
+      "path": "select/11_K-POP_(feat._Bad_Bunny_&_The_Weeknd)_Travis_Scott_Bad_Bunny_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "K-POP",
+      "artist": "Travis Scott, Bad Bunny & The Weeknd",
+      "has_synced": true,
+      "path": "select/12_K-POP_Travis_Scott,_Bad_Bunny_&_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jula-Juli K-Pop",
+      "artist": "Jogja Hip Hop Foundation",
+      "has_synced": false,
+      "path": "select/13_Jula-Juli_K-Pop_Jogja_Hip_Hop_Foundation.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "K-Pop",
+      "artist": "Travis Scott feat. Bad Bunny & The Weeknd",
+      "has_synced": true,
+      "path": "select/14_K-Pop_Travis_Scott_feat._Bad_Bunny_&_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "K-POP (feat. Bad Bunny & The Weeknd)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/15_K-POP_(feat._Bad_Bunny_&_The_Weeknd)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "K‐POP",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/16_K‐POP_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "K-POP",
+      "artist": "Travis Scott, Bad Bunny, The Weeknd",
+      "has_synced": true,
+      "path": "select/17_K-POP_Travis_Scott,_Bad_Bunny,_The_Weeknd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "K-POP",
+      "artist": "Travis Scott",
+      "has_synced": false,
+      "path": "select/pl_01_K-POP_Travis_Scott.txt"
+    }
+  ]
+}
